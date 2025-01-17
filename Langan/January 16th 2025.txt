@@ -1,0 +1,10 @@
+What I Did Today:
+- Worked on making the map that Ray designed more dynamic
+- Implemented the same design pattern as the H&S site using a list and api request to populate a js object
+- This approach allows HR to manage the data for these sites without IT assistance
+- One issue can be that the request of the data can be costly in terms on time efficiency 
+
+Ideas For Future Developments:
+- I'd like to try and cache the data of the populated objects that get the data form the sp lists because the process is costly in terms of time resources
+- Caching is also a useful skill to learn since it optimize time costs by storing data that will be used again
+- The faster load times will make the site feel more professional which is more immersful for the user and builds greater trust in the Langan sites as a whole
